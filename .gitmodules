@@ -1,0 +1,3 @@
+[submodule "godot-vrpn-client"]
+	path = godot-vrpn-client
+	url = https://github.com/simedis/godot-vrpn-client.git
